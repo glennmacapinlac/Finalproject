@@ -16,6 +16,4 @@ datapane==0.10.2
 geopy==2.1.0
 jupyter-server==1.5.0
 pygments>=2.4.1
-voila-gridstack==0.1.0
-voila-reveal==0.1.0
 jupyterlab-heroku==0.2.1
