@@ -18,4 +18,5 @@ jupyter-server==1.5.0
 pygments>=2.4.1
 ipywidgets==7.6.3
 ipykernel==5.5.0
+kneed==0.7.0
 jupyterlab-heroku==0.2.1
